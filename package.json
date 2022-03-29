@@ -29,8 +29,8 @@
     "test:staging:regression": "npm-run-all pretest cy:scripts:staging:regression posttest",
     "test:staging:uivalidation": "npm-run-all pretest cy:scripts:staging:uivalidation posttest"
   },
-  "author": "Rabi Mishra",
-  "license": "MIT",
+  "author": "Sara",
+  "license": "abc",
   "devDependencies": {
     "@cypress/webpack-preprocessor": "^5.10.0",
     "cypress": "^9.5.2",

@@ -1,0 +1,11 @@
+{
+  "userlogin": {
+    "user": {
+      "envname": "prod",
+      "baseUrl": "https://ebay.com.au",
+      "email": "",
+      "password": ""
+    }
+  }
+  
+}
